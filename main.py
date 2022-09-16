@@ -9,6 +9,8 @@ MAGENTA = '\033[35m'
 CYAN = '\033[36m'
 RESET = '\033[39m'
 
+# Este comentario es el error
+
 preguntas_general = [
     ('¿Cuál es el animal nacional de Australia?\n', 
     '\tA)Demonio de Tanzania\n\tB)Canguro\n\tC)Kiwi\n\tD)No tiene\n'),
